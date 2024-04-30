@@ -1,5 +1,5 @@
-codeup.aliyun.com/6308f33e9011ed4f984a7e9d/dm-driver-go v1.0.0 h1:JqKrq7JPnlztDToWK1veri8Q8d4n0QU4FgZ1TLQO1o4=
-codeup.aliyun.com/6308f33e9011ed4f984a7e9d/dm-driver-go v1.0.0/go.mod h1:lWy9wrf3LtgZqC1j8H++jcFJSEb7zRHLGPffku3+tYY=
+github.com/3lotter/dm-driver-go v1.0.0 h1:jwISc8e25l/OEJOarFVLzlQRGwYYOgNpxwQJYi2vgzE=
+github.com/3lotter/dm-driver-go v1.0.0/go.mod h1:nHTItK3QsWw6b6m1FJpevLeFFWV6h/BJtvtHlc2uXTw=
 github.com/golang/snappy v0.0.1 h1:Qgr9rKW7uDUkrbSmQeiDsGa8SjGyCOGtuasMWwvp2P4=
 github.com/golang/snappy v0.0.1/go.mod h1:/XxbfmMg8lxefKM7IXC3fBNl/7bRcc72aCRzEWrmP2Q=
 github.com/jinzhu/inflection v1.0.0 h1:K317FqzuhWc8YvSVlFMCCUb36O/S9MCKRDI7QkRKD/E=

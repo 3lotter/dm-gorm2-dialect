@@ -1,9 +1,9 @@
-module codeup.aliyun.com/6308f33e9011ed4f984a7e9d/dm-gorm2-dialect
+module github.com/3lotter/dm-gorm2-dialect
 
 go 1.19
 
 require (
-	codeup.aliyun.com/6308f33e9011ed4f984a7e9d/dm-driver-go v1.0.0
+	github.com/3lotter/dm-driver-go v1.0.0
 	gorm.io/gorm v1.25.6
 )
 
